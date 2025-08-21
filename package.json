@@ -1,0 +1,16 @@
+{
+  "name": "backendmegaproject-03",
+  "version": "1.0.0",
+  "description": "A mega project in backend",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Ankit Kumar Singha",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
